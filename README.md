@@ -1,5 +1,6 @@
 # Inferring Line-of-sight Velocities and Doppler Widths from Stokes Profiles of GST/NIRIS Using Stacked Deep Neural Networks
 Haodi Jiang, Qin Li, Yan Xu, Wynne Hsu, Kwangsu Ahn, Wenda Cao, Jason T. L. Wang, Haimin Wang
+
 Institute for Space Weather Sciences, New Jersey Institute of Technology
 
 Institute of Data Science, National University of Singapore
