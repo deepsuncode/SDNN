@@ -2,11 +2,11 @@ To get the pre-trained model, named pretrained_model.h5, go to https://web.njit.
 
 Requirements:
 
-python=2.7
+python=3.6
 tensorflow=1.11.0
 keras=2.2.4
-astropy
-matplotlib
+astropy=4.1
+matplotlib (should be installed automatically after the above packages are installed)
 
 Usage:
 
