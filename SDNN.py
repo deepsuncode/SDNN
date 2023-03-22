@@ -40,11 +40,14 @@ import time
 from collections import deque
 import matplotlib.pyplot as plt
 import matplotlib
+from keras import backend as K
+import numpy as np
 
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 try:
     import tensorflow as tf
+    tf.compat.v1.disable_eager_execution() 
     tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 except Exception as e:
     print('turn off loggins is not supported')
