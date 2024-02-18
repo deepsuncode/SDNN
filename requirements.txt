@@ -1,0 +1,5 @@
+tensorflow==2.15.0
+keras==2.15.0
+astropy==6.0.0
+matplotlib==3.8.2
+# tensorflow-metal
